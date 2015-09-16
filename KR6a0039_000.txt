@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 頂生王故事經
+#+DATE: 2015-08-30 19:29:31.296088
+#+PROPERTY: JUAN 0
